@@ -3,7 +3,7 @@
 </div>
 
 - <b>Now</b> : One to One Programming (online education; personal business)
-- <b>I can</b> : `Python` `C` `C++`
+- <b>My Skills</b> : `Python` `C` `C++`
 
 <div align=center>
 
