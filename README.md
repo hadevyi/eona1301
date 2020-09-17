@@ -6,9 +6,12 @@
 <br>
 
 - <b>Now</b> : One to One Programming (online education; personal business)
+> Program Introduction/Basic Course Lecture (Personalized)<br>
+ Personal Hope Programming Supplementary Lecture<br>
+ Provide online real-time feedback
+ <br>
 - <b>My Skills</b> : `Python` `C` `C++`
 
-<div align=center>
 <br>
 <br>
 
