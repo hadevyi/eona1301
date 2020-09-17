@@ -2,9 +2,8 @@
   <a href="https://hits.seeyoufarm.com"/><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feona1301"/></a>
 </div>
 
-- <b>Main language</b> : C/C++, Python
-- <b>Current job</b> : Programming 1:1 customized lesson
-- <b>Goals this year</b> : Master's Admission
+- <b>Now</b> : One to One Programming (online education; personal business)
+- <b>I can</b> : `Python` `C` `C++`
 
 <div align=center>
 
