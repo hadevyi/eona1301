@@ -17,8 +17,10 @@
 <br>
 
 <div align=center>
-  [![Gitblog Badge](http://img.shields.io/badge/-GitBlog-black?style=flat-square&logo=github&link=https://eona1301.github.io/)](https://eona1301.github.io/) 
-  [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/eona1301)](https://www.facebook.com/eona1301) 
-  [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/danghyeona/)](https://www.instagram.com/danghyeona/) 
-  [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eona1301@gmail.com)](mailto:eona1301@gmail.com)
+
+[![Gitblog Badge](http://img.shields.io/badge/-GitBlog-black?style=flat-square&logo=github&link=https://eona1301.github.io/)](https://eona1301.github.io/) 
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/eona1301)](https://www.facebook.com/eona1301) 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/danghyeona/)](https://www.instagram.com/danghyeona/) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eona1301@gmail.com)](mailto:eona1301@gmail.com)
+
 </div>
