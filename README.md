@@ -5,20 +5,25 @@
 <br>
 <br>
 
-- <b>Now</b> : One to One Programming (online education; personal business)
-> Program Introduction/Basic Course Lecture (Personalized)<br>
- Personal Hope Programming Supplementary Lecture<br>
- Provide online real-time feedback
- <br>
- 
-- <b>My Skills</b> : `Python` `C` `C++`
+## 🔥 Now
 
+Samsung SW Academy For Youth 5th (SSAFY 5기 ; 2021.01 ~ )
 <br>
 <br>
 
+## 📑 Experience
+
+- Database LAB (2016.08 ~ 2020.02)
+- INJE Univ. Computer Engineering - Student President (2019.01 ~ 2019.12)
+- ETRI Intern in Busan (2019.07 ~ 2019.08)
+- One to One Programmin - Online Education Business (2020.04 ~ 2020.10)
+- DND (Developer and Designer) 3rd (디엔디 3기 ; 2020.07 ~ 2020.08)
+
+<br>
+<br>
 <div align=center>
 
-[![Gitblog Badge](http://img.shields.io/badge/-GitBlog-black?style=flat-square&logo=github&link=https://eona1301.github.io/)](https://eona1301.github.io/) 
+[![Gitblog Badge](http://img.shields.io/badge/-GitBlog-black?style=flat-square&logo=github&link=https://eona1301.github.io/)](https://eona1301.github.io/)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/eona1301)](https://www.facebook.com/eona1301) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/danghyeona/)](https://www.instagram.com/danghyeona/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eona1301@gmail.com)](mailto:eona1301@gmail.com)
