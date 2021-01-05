@@ -2,9 +2,6 @@
   <a href="https://hits.seeyoufarm.com"/><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feona1301"/></a>
 </div>
 
-<br>
-<br>
-
 ## 🔥 Now
 
 Samsung SW Academy For Youth 5th (SSAFY 5기 ; 2021.01 ~ )
