@@ -22,15 +22,6 @@ Samsung SW Academy For Youth 5th (SSAFY 5기 ; 2021.01 ~ )
 <br>
 <br>
 
-## 🏆 Awards
-
-- Inje University Capstone Design Contest Silver Prize, Popularity Prize (2019.11)
-- The 5th National Startup Conference-Innovation Idea Award (2019.11)
-- Korea, China and Japan International Capstone Design Contest-Silver Prize (2019.12)
-- Inje University 2019 Degree, Excellent graduation (2020.02)
-<br>
-<br>
-
 <div align=center>
 
 [![Gitblog Badge](http://img.shields.io/badge/-GitBlog-black?style=flat-square&logo=github&link=https://eona1301.github.io/)](https://eona1301.github.io/)
