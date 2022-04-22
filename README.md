@@ -1,7 +1,7 @@
 <div align=center>
   
   <h1>💻 공유의 가치를 추구하는 개발자 📋</h1>
-  
+  <br>
 </div>
 
 <img src="https://user-images.githubusercontent.com/45550607/164703284-7d3f4220-ab5c-40e8-b28a-dfb870af9ed9.png" align="right" width="300px">
@@ -45,18 +45,18 @@
 <summary>📚 프로젝트</summary>
 <div markdown="1">
 
-- 개인 체질 맞춤 건강관리 웹사이트, 오투아이(O to I) (2016.10 ~ 2016.12)
-- 영단어 학습 웹 애플리케이션, EWS (2017.09 ~ 2017.12)
+- 개인 체질 맞춤 건강관리 웹사이트, [오투아이(O to I)](https://github.com/eona1301/O-to-I) (2016.10 ~ 2016.12)
+- 영단어 학습 웹 애플리케이션, [EWS](https://github.com/eona1301/English-Word-Study) (2017.09 ~ 2017.12)
 - GrabCut 알고리즘을 활용한 수동 전경 분리 프로그램 (ETRI 인턴, 2019.07)
 - CNN을 활용한 자동 전경 분리 프로그램 (ETRI 인턴, 2019.08)
-- 신조어, 자주 사용하는 외국어 학습 어플, WowSup (2019.01 ~ 2019.04)
-- 손동작을 이용한 마우스 제어 시스템, DB Leap (2019.09 ~ 2019.10)
-- 커스텀 조합 추천 애플리케이션, 카인딧(Kindit) (2020.07 ~ 2020.08)
-- Open API를 활용한 서울시 주택 거래 웹 사이트, 홈즈(Homez) (2021.05)
-- 지식 교류 서비스 및 자동통계 홍보 웹 사이트, 솔버(SOLVER) (2021.07 ~ 2021.08)
-- 삼성전자 무선사업부 오픈소스 프로젝트, Motion Pose (2021.08 ~ 2021.10)
-- 멸종(위기)동물 및 환경보호 메타버스, 세이퍼스(Safers) (2021.10 ~ 2021.11)
-- 소중한 날을 기다리는 즐거움, Gratz (2022.01 ~ 2022.02)
+- 신조어, 자주 사용하는 외국어 학습 어플, [WowSup](https://github.com/Inje-Database-Lab/WowSup) (2019.01 ~ 2019.04)
+- 손동작을 이용한 마우스 제어 시스템, [DB Leap](https://github.com/Inje-Database-Lab/DB-Leap) (2019.09 ~ 2019.10)
+- 커스텀 조합 추천 애플리케이션, [카인딧(Kindit)](https://github.com/dnd-side-project/dnd-mentee-3rd-5-kindit) (2020.07 ~ 2020.08)
+- Open API를 활용한 서울시 주택 거래 웹 사이트, [홈즈(Homez)](https://github.com/Homez-House/Homez) (2021.05)
+- 지식 교류 서비스 및 자동통계 홍보 웹 사이트, [솔버(SOLVER)](https://github.com/BerrySolver/SOLVER) (2021.07 ~ 2021.08)
+- 삼성전자 무선사업부 오픈소스 프로젝트, [Motion Pose](https://github.com/5FNSaaS/node-red-contrib-motion-pose) (2021.08 ~ 2021.10)
+- 멸종(위기)동물 및 환경보호 메타버스, [세이퍼스(Safers)](https://github.com/Metaverse-Safers/SAFERS) (2021.10 ~ 2021.11)
+- 소중한 날을 기다리는 즐거움, [Gratz](https://github.com/dnd-side-project/dnd-6th-9-backend) (2022.01 ~ 2022.02)
 
 </div>
 </details>
