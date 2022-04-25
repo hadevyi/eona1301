@@ -1,7 +1,7 @@
 <div align=center>
   
   <h1>💻 공유의 가치를 추구하는 개발자 📋</h1>
-  <br>
+  
 </div>
 
 <img src="https://user-images.githubusercontent.com/45550607/164703284-7d3f4220-ab5c-40e8-b28a-dfb870af9ed9.png" align="right" width="300px">
@@ -21,10 +21,11 @@
 <br>
 
 <details>
-<summary>🏫 학력사항</summary>
+<summary>🏫 교육/학력</summary>
 <div markdown="1">
   
 - 인제대학교 컴퓨터공학 학사 (2016.03 ~ 2020.02)
+- 삼성청년SW아카데미 5기 교육 (2021.01 ~ 2021.12)
 </div>
 </details>
 
@@ -35,7 +36,6 @@
 - 인제대학교 영재교육원 정보과학반 심화-사사과정 TA (2017.03 ~ 2019.12)
 - 한국전자통신연구소(ETRI) 부산공동연구실 하계인턴 이수 (2019.07 ~ 2019.08)
 - 원투원 프로그래밍 - 온라인 프로그래밍 교육 1인 사업 (2020.04 ~ 2020.10)
-- 삼성청년SW아카데미 5기 교육 (2021.01 ~ 2021.12)
 - 삼성청년SW아카데미 6기 실습코치 (2021.12 ~ing)
 
 </div>
@@ -111,3 +111,21 @@
 </div>
 </details>
 
+
+### 🔧 My Stack
+
+![Springboot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
