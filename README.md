@@ -75,7 +75,7 @@
 - [🌐](https://youtu.be/rmXDguEqLaI) 삼성청년SW아카데미 7기 모집설명회 전공자 라이브 패널 (2021.11) 
 - [🌐](https://www.soscon.net/sessionDetail?sessionNo=25) Samsung Software Developer Conference 2021 세션 발표 (2021.11) 
 - 개발자X디자이너 연합 동아리 DND 6기 (2022.01 ~ 2022.02)
-- 삼성청년SW아카데미 공식 동문회 Alumni 집행부 (2022.03 ~ing)
+- 삼성청년SW아카데미 공식 동문회, SSAFYnity 기획국장 (2022.03 ~ing)
 
 </div>
 </details>
